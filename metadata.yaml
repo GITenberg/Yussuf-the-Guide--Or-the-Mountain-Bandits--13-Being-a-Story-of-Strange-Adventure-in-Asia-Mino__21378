@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3840
     wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21378#Yussuf-the-Guide--Or-the-Mountain-Bandits--13-Being-a-Story-of-Strange-Adventure-in-Asia-Mino_
 gutenberg_issued: '2007-05-08'
 gutenberg_type: Text
 identifiers:
